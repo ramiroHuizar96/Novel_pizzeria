@@ -8,4 +8,14 @@ $bodyFont:'Rajdhani', sans-serif;
     box-sizing: border-box;
     line-height: 1.5;
 }
-
+body{
+    font-family: $bodyFont;
+    font-size: 1.2rem;
+}
+.title_font{
+    font-family: $titleFont;
+    color: maroon;
+}
+.menu-page{
+    border: 1rem dotted rgb(245, 211, 19) ;
+}

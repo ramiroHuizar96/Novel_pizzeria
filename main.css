@@ -5,4 +5,18 @@
           box-sizing: border-box;
   line-height: 1.5;
 }
+
+body {
+  font-family: "Rajdhani", sans-serif;
+  font-size: 1.2rem;
+}
+
+.title_font {
+  font-family: "Rozha One", serif;
+  color: maroon;
+}
+
+.menu-page {
+  border: 1rem dotted #f5d313;
+}
 /*# sourceMappingURL=main.css.map */
